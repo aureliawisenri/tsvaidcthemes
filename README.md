@@ -3,6 +3,8 @@
 while i'm still using vencord on pc, i'm now also using revenge on android, which doesn't support local themes, so i'm back to hosting themes in this repo as well. 
 i've more accurately renamed the repo itself as well, as i should have before.
 
+editing json themes is more outside my wheelhouse than css themes, so it may actually be a while before any themes are uploaded because i'm going to have to put aside time to learn the structure at some point, so that i know which color values to edit.
+
 ~~For a while now, vencord has been able to use local themes instead of exclusively online themes, so I no longer need this as a theme css repo, and am now using it to host assets for any themes that use images (background themes, etc).~~
 
 **Disclaimer:** All edited and reuploaded themes will still have the sources & credits in the css as originally put there by their creators. I have done my best to check licenses before saving and reuploading to make sure they permit distribution and/or private use. 
